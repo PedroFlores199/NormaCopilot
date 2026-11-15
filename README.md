@@ -25,7 +25,7 @@ cd NormaCopilot
 docker compose up --build -d
 ```
 
-Abre [localhost:5101](http://localhost:5101). La primera ejecución descarga `qwen3:4b` y `nomic-embed-text` (unos 2,8 GB), indexa la captura del BOE incluida; puede tardar varios minutos. `GET /health` confirma la disponibilidad. El modelo local funciona sin clave de pago. La captura mantiene su fecha de recuperación. La actualización consulta el BOE; las preguntas utilizan el corpus ya indexado.
+Abre [localhost:5101](http://localhost:5101). La primera ejecución descarga `qwen3:4b` y `nomic-embed-text` (unos 2,8 GB), indexa la captura del BOE incluida; puede tardar varios minutos. `GET /health` confirma la disponibilidad. El modelo local funciona sin clave de pago. Una consulta con CPU puede tardar varios minutos; la API permite hasta cinco minutos por generación. La captura mantiene su fecha de recuperación. La actualización consulta el BOE; las preguntas utilizan el corpus ya indexado.
 
 En Apple Silicon, ejecutar Ollama nativo aprovecha Metal; el contenedor de Ollama utiliza CPU. Para el modo nativo: levanta solo `docker compose up -d postgres`, arranca Ollama en el puerto 11435, descarga ambos modelos y ejecuta `uv sync --extra test` y `uv run uvicorn app.main:app --port 5101`. `.env.example` recoge la configuración. No se incluyen secretos reales.
 

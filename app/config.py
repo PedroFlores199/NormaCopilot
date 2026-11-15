@@ -14,8 +14,8 @@ class Settings(BaseSettings):
     api_model: str = ""
     data_dir: Path = Path("data")
     max_question_length: int = 1500
-    max_parallel: int = 2
-    request_timeout: int = 120
+    max_parallel: int = 1
+    request_timeout: int = 300
     weekly_updates: bool = False
     langfuse_public_key: str = ""
     langfuse_secret_key: str = ""
