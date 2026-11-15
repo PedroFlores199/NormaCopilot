@@ -1,0 +1,1 @@
+Configuración derivada del Compose oficial de Langfuse, commit `2365023d8542afc9b0d4e720a3bddc9ce301f342`. Se han retirado los puertos auxiliares y limitado la web a localhost:3100. Las credenciales son de demostración local. Fuente: https://github.com/langfuse/langfuse/blob/2365023d8542afc9b0d4e720a3bddc9ce301f342/docker-compose.yml

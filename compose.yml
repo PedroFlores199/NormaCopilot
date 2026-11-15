@@ -1,0 +1,42 @@
+name: normacopilot
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    environment: { POSTGRES_DB: norma, POSTGRES_USER: norma, POSTGRES_PASSWORD: norma_local_demo }
+    ports: ["127.0.0.1:55433:5432"]
+    volumes: ["pg-data:/var/lib/postgresql/data"]
+    healthcheck: { test: ["CMD-SHELL", "pg_isready -U norma"], interval: 5s, timeout: 3s, retries: 20 }
+  ollama:
+    image: ollama/ollama:0.13.0
+    ports: ["127.0.0.1:11435:11434"]
+    volumes: ["models:/root/.ollama"]
+    healthcheck: { test: ["CMD", "ollama", "list"], interval: 10s, retries: 20 }
+  models:
+    image: ollama/ollama:0.13.0
+    environment: { OLLAMA_HOST: "http://ollama:11434" }
+    depends_on: { ollama: { condition: service_healthy } }
+    volumes: ["./scripts/pull-models.sh:/pull-models.sh:ro"]
+    entrypoint: ["sh", "/pull-models.sh"]
+  api:
+    build: .
+    ports: ["127.0.0.1:5101:8000"]
+    environment:
+      DATABASE_URL: postgresql://norma:norma_local_demo@postgres:5432/norma
+      OLLAMA_URL: http://ollama:11434
+      LLM_PROVIDER: ${LLM_PROVIDER:-ollama}
+      MODEL: ${MODEL:-qwen3:4b}
+      API_BASE: ${API_BASE:-https://api.openai.com/v1}
+      API_KEY: ${API_KEY:-}
+      API_MODEL: ${API_MODEL:-}
+      WEEKLY_UPDATES: "true"
+      LANGFUSE_PUBLIC_KEY: ${LANGFUSE_PUBLIC_KEY:-}
+      LANGFUSE_SECRET_KEY: ${LANGFUSE_SECRET_KEY:-}
+      LANGFUSE_BASE_URL: ${LANGFUSE_BASE_URL:-http://host.docker.internal:3100}
+    volumes: ["corpus:/app/data"]
+    depends_on:
+      postgres: { condition: service_healthy }
+      models: { condition: service_completed_successfully }
+volumes:
+  pg-data:
+  models:
+  corpus:

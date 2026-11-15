@@ -1,0 +1,34 @@
+name: Tests y Docker
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: pgvector/pgvector:pg17
+        env:
+          POSTGRES_DB: norma
+          POSTGRES_USER: norma
+          POSTGRES_PASSWORD: norma_local_demo
+        ports: [5432:5432]
+        options: >-
+          --health-cmd "pg_isready -U norma"
+          --health-interval 5s --health-timeout 3s --health-retries 20
+    env:
+      DATABASE_URL: postgresql://norma:norma_local_demo@localhost:5432/norma
+      RUN_INTEGRATION: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with: { python-version: '3.12' }
+      - run: uv sync --frozen --extra test
+      - run: uv run pytest --junitxml=artifacts/tests.xml
+      - run: docker build -t normacopilot:ci .
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: test-results, path: artifacts }

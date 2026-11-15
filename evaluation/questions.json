@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": "¿A qué personas se aplica el Estatuto de los Trabajadores?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a1",
+    "reference_passage": "1. Esta ley será de aplicación a los trabajadores que voluntariamente presten sus servicios retribuidos por cuenta ajena y dentro del ámbito de organización y dirección de otra persona, física o jurídica, denominada empleador o empresario.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a1"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué relaciones laborales tienen carácter especial?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a2",
+    "reference_passage": "1. Se considerarán relaciones laborales de carácter especial:",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a2"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué fuentes regulan los derechos y obligaciones laborales?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a3",
+    "reference_passage": "1. Los derechos y obligaciones concernientes a la relación laboral se regulan:",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a3"
+  },
+  {
+    "id": 4,
+    "question": "¿Cuáles son los derechos básicos de los trabajadores?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a4",
+    "reference_passage": "1. Los trabajadores tienen como derechos básicos, con el contenido y alcance que para cada uno de los mismos disponga su específica normativa, los de:",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a4"
+  },
+  {
+    "id": 5,
+    "question": "¿Qué deberes básicos tiene el trabajador?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a5",
+    "reference_passage": "Los trabajadores tienen como deberes básicos:",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a5"
+  },
+  {
+    "id": 6,
+    "question": "¿Pueden trabajar los menores de dieciséis años?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a6",
+    "reference_passage": "1. Se prohíbe la admisión al trabajo a los menores de dieciséis años.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a6"
+  },
+  {
+    "id": 7,
+    "question": "¿Quién tiene capacidad para contratar un trabajo?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a7",
+    "reference_passage": "Podrán contratar la prestación de su trabajo:",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a7"
+  },
+  {
+    "id": 8,
+    "question": "¿Cuándo debe formalizarse por escrito un contrato de trabajo?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a8",
+    "reference_passage": "1. El contrato de trabajo se podrá celebrar por escrito o de palabra. Se presumirá existente entre todo el que presta un servicio por cuenta y dentro del ámbito de organización y dirección de otro y el que lo recibe a cambio de una retribución a aquel.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a8"
+  },
+  {
+    "id": 9,
+    "question": "¿Qué ocurre si un contrato de trabajo resulta nulo?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a9",
+    "reference_passage": "1. Si resultase nula solo una parte del contrato de trabajo, este permanecerá válido en lo restante, y se entenderá completado con los preceptos jurídicos adecuados conforme a lo dispuesto en el artículo 3.1.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a9"
+  },
+  {
+    "id": 10,
+    "question": "¿Cómo funciona el contrato de trabajo en grupo?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a10",
+    "reference_passage": "1. Si el empresario diera un trabajo en común a un grupo de sus trabajadores, conservará respecto de cada uno, individualmente, sus derechos y deberes.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a10"
+  },
+  {
+    "id": 11,
+    "question": "¿Qué requisitos tiene el contrato para obtener práctica profesional?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a11",
+    "reference_passage": "1. El contrato formativo tendrá por objeto la formación en alternancia con el trabajo retribuido por cuenta ajena en los términos establecidos en el apartado 2, o el desempeño de una actividad laboral destinada a adquirir una práctica profesional adecuada a los correspondientes niveles de estudios, en los términos establecidos en el apartado 3.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a11"
+  },
+  {
+    "id": 12,
+    "question": "¿Qué debe indicar un contrato a tiempo parcial sobre la jornada?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a12",
+    "reference_passage": "1. El contrato de trabajo se entenderá celebrado a tiempo parcial cuando se haya acordado la prestación de servicios durante un número de horas al día, a la semana, al mes o al año, inferior a la jornada de trabajo de un trabajador a tiempo completo comparable.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a12"
+  },
+  {
+    "id": 13,
+    "question": "¿Qué norma regula el trabajo a distancia?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a13",
+    "reference_passage": "Las personas trabajadoras podrán prestar trabajo a distancia en los términos previstos en la Ley 10/2021 de trabajo a distancia.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a13"
+  },
+  {
+    "id": 14,
+    "question": "¿Qué reglas se aplican al periodo de prueba?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a14",
+    "reference_passage": "1. Podrá concertarse por escrito un periodo de prueba, con sujeción a los límites de duración que, en su caso, se establezcan en los convenios colectivos. En defecto de pacto en convenio, la duración del periodo de prueba no podrá exceder de seis meses para los técnicos titulados, ni de dos meses para los demás trabajadores. En las empresas de menos de veinticinco trabajadores el periodo de prueba no podrá exceder de tres meses para los trabajadores que no sean técnicos titulados.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a14"
+  },
+  {
+    "id": 15,
+    "question": "¿Cuándo puede celebrarse un contrato de duración determinada?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a15",
+    "reference_passage": "1. El contrato de trabajo se presume concertado por tiempo indefinido.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a15"
+  },
+  {
+    "id": 16,
+    "question": "¿En qué casos se utiliza el contrato fijo discontinuo?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a16",
+    "reference_passage": "1. El contrato por tiempo indefinido fijo-discontinuo se concertará para la realización de trabajos de naturaleza estacional o vinculados a actividades productivas de temporada, o para el desarrollo de aquellos que no tengan dicha naturaleza pero que, siendo de prestación intermitente, tengan periodos de ejecución ciertos, determinados o indeterminados.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a16"
+  },
+  {
+    "id": 17,
+    "question": "¿Cómo protege el Estatuto frente a la discriminación laboral?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a17",
+    "reference_passage": "1. Se entenderán nulos y sin efecto los preceptos reglamentarios, las cláusulas de los convenios colectivos, los pactos individuales y las decisiones unilaterales del empresario que den lugar en el empleo, así como en materia de retribuciones, jornada y demás condiciones de trabajo, a situaciones de discriminación directa o indirecta desfavorables por razón de edad o discapacidad o a situaciones de discriminación directa o indirecta por razón de sexo, origen, incluido el racial o étnico, estado civil, condición social, religión o convicciones, ideas políticas, orientación e identidad sexual, expresión de género, características sexuales, adhesión o no a sindicatos y a sus acuerdos, vínculos de parentesco con personas pertenecientes a o relacionadas con la empresa y lengua dentro del Estado español.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a17"
+  },
+  {
+    "id": 18,
+    "question": "¿Cuándo pueden hacerse registros en la taquilla del trabajador?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a18",
+    "reference_passage": "Solo podrán realizarse registros sobre la persona del trabajador, en sus taquillas y efectos particulares, cuando sean necesarios para la protección del patrimonio empresarial y del de los demás trabajadores de la empresa, dentro del centro de trabajo y en horas de trabajo. En su realización se respetará al máximo la dignidad e intimidad del trabajador y se contará con la asistencia de un representante legal de los trabajadores o, en su ausencia del centro de trabajo, de otro trabajador de la empresa, siempre que ello fuera posible.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a18"
+  },
+  {
+    "id": 19,
+    "question": "¿Qué derecho tiene el trabajador a la seguridad y salud laboral?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a19",
+    "reference_passage": "1. El trabajador, en la prestación de sus servicios, tendrá derecho a una protección eficaz en materia de seguridad y salud en el trabajo.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a19"
+  },
+  {
+    "id": 20,
+    "question": "¿Qué facultades de dirección y control tiene el empresario?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a20",
+    "reference_passage": "1. El trabajador estará obligado a realizar el trabajo convenido bajo la dirección del empresario o persona en quien este delegue.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a20"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué límites tiene el pacto de no competencia después del contrato?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a21",
+    "reference_passage": "1. No podrá efectuarse la prestación laboral de un trabajador para diversos empresarios cuando se estime concurrencia desleal o cuando se pacte la plena dedicación mediante compensación económica expresa, en los términos que al efecto se convengan.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a21"
+  },
+  {
+    "id": 22,
+    "question": "¿Cómo se establece el sistema de clasificación profesional?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a22",
+    "reference_passage": "1. Mediante la negociación colectiva o, en su defecto, acuerdo entre la empresa y los representantes de los trabajadores, se establecerá el sistema de clasificación profesional de los trabajadores por medio de grupos profesionales.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a22"
+  },
+  {
+    "id": 23,
+    "question": "¿Qué derechos de formación profesional tiene el trabajador?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a23",
+    "reference_passage": "1. El trabajador tendrá derecho:",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a23"
+  },
+  {
+    "id": 24,
+    "question": "¿Cómo se regulan los ascensos en la empresa?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a24",
+    "reference_passage": "1. Los ascensos dentro del sistema de clasificación profesional se producirán conforme a lo que se establezca en convenio o, en su defecto, en acuerdo colectivo entre la empresa y los representantes de los trabajadores.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a24"
+  },
+  {
+    "id": 25,
+    "question": "¿Cómo se determina la promoción económica del trabajador?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a25",
+    "reference_passage": "1. El trabajador, en función del trabajo desarrollado, podrá tener derecho a una promoción económica en los términos fijados en convenio colectivo o contrato individual.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a25"
+  },
+  {
+    "id": 26,
+    "question": "¿Qué conceptos forman parte del salario?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a26",
+    "reference_passage": "1. Se considerará salario la totalidad de las percepciones económicas de los trabajadores, en dinero o en especie, por la prestación profesional de los servicios laborales por cuenta ajena, ya retribuyan el trabajo efectivo, cualquiera que sea la forma de remuneración, o los periodos de descanso computables como de trabajo.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a26"
+  },
+  {
+    "id": 27,
+    "question": "¿Cómo se fija el salario mínimo interprofesional?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a27",
+    "reference_passage": "1. El Gobierno fijará, previa consulta con las organizaciones sindicales y asociaciones empresariales más representativas, anualmente, el salario mínimo interprofesional, teniendo en cuenta:",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a27"
+  },
+  {
+    "id": 28,
+    "question": "¿Cómo se garantiza la igualdad de remuneración por razón de sexo?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a28",
+    "reference_passage": "1. El empresario está obligado a pagar por la prestación de un trabajo de igual valor la misma retribución, satisfecha directa o indirectamente, y cualquiera que sea la naturaleza de la misma, salarial o extrasalarial, sin que pueda producirse discriminación alguna por razón de sexo en ninguno de los elementos o condiciones de aquella.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a28"
+  },
+  {
+    "id": 29,
+    "question": "¿Qué reglas se aplican al pago y liquidación del salario?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a29",
+    "reference_passage": "1. La liquidación y el pago del salario se harán puntual y documentalmente en la fecha y lugar convenidos o conforme a los usos y costumbres. El periodo de tiempo a que se refiere el abono de las retribuciones periódicas y regulares no podrá exceder de un mes.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a29"
+  },
+  {
+    "id": 30,
+    "question": "¿Se conserva el salario si la empresa no da trabajo por causa imputable a ella?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a30",
+    "reference_passage": "Si el trabajador no pudiera prestar sus servicios una vez vigente el contrato porque el empresario se retrasare en darle trabajo por impedimentos imputables al mismo y no al trabajador, este conservará el derecho a su salario, sin que pueda hacérsele compensar el que perdió con otro trabajo realizado en otro tiempo.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a30"
+  },
+  {
+    "id": 31,
+    "question": "¿Cuántas gratificaciones extraordinarias reconoce el Estatuto?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a31",
+    "reference_passage": "El trabajador tiene derecho a dos gratificaciones extraordinarias al año, una de ellas con ocasión de las fiestas de Navidad y la otra en el mes que se fije por convenio colectivo o por acuerdo entre el empresario y los representantes legales de los trabajadores. Igualmente se fijará por convenio colectivo la cuantía de tales gratificaciones.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a31"
+  },
+  {
+    "id": 32,
+    "question": "¿Qué garantías tiene el crédito salarial?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a32",
+    "reference_passage": "1. Los créditos salariales por los últimos treinta días de trabajo y en cuantía que no supere el doble del salario mínimo interprofesional gozarán de preferencia sobre cualquier otro crédito, aunque este se encuentre garantizado por prenda o hipoteca.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a32"
+  },
+  {
+    "id": 33,
+    "question": "¿Qué función tiene el Fondo de Garantía Salarial?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a33",
+    "reference_passage": "1. El Fondo de Garantía Salarial, organismo autónomo adscrito al Ministerio de Empleo y Seguridad Social, con personalidad jurídica y capacidad de obrar para el cumplimiento de sus fines, abonará a los trabajadores el importe de los salarios pendientes de pago a causa de insolvencia o concurso del empresario.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a33"
+  },
+  {
+    "id": 34,
+    "question": "¿Cuál es la duración máxima de la jornada ordinaria?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a34",
+    "reference_passage": "1. La duración de la jornada de trabajo será la pactada en los convenios colectivos o contratos de trabajo.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a34"
+  },
+  {
+    "id": 35,
+    "question": "¿Qué límite anual tienen las horas extraordinarias?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a35",
+    "reference_passage": "1. Tendrán la consideración de horas extraordinarias aquellas horas de trabajo que se realicen sobre la duración máxima de la jornada ordinaria de trabajo, fijada de acuerdo con el artículo anterior. Mediante convenio colectivo o, en su defecto, contrato individual, se optará entre abonar las horas extraordinarias en la cuantía que se fije, que en ningún caso podrá ser inferior al valor de la hora ordinaria, o compensarlas por tiempos equivalentes de descanso retribuido. En ausencia de pacto al respecto, se entenderá que las horas extraordinarias realizadas deberán ser compensadas mediante descanso dentro de los cuatro meses siguientes a su realización.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a35"
+  },
+  {
+    "id": 36,
+    "question": "¿Qué se considera trabajo nocturno?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a36",
+    "reference_passage": "1. A los efectos de lo dispuesto en esta ley, se considera trabajo nocturno el realizado entre las diez de la noche y las seis de la mañana. El empresario que recurra regularmente a la realización de trabajo nocturno deberá informar de ello a la autoridad laboral.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a36"
+  },
+  {
+    "id": 37,
+    "question": "¿Qué permiso corresponde por matrimonio o registro de pareja?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a37",
+    "reference_passage": "1. Los trabajadores tendrán derecho a un descanso mínimo semanal, acumulable por periodos de hasta catorce días, de día y medio ininterrumpido que, como regla general, comprenderá la tarde del sábado o, en su caso, la mañana del lunes y el día completo del domingo. La duración del descanso semanal de los menores de dieciocho años será, como mínimo, de dos días ininterrumpidos.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a37"
+  },
+  {
+    "id": 38,
+    "question": "¿Cuántos días de vacaciones anuales reconoce el Estatuto?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a38",
+    "reference_passage": "1. El periodo de vacaciones anuales retribuidas, no sustituible por compensación económica, será el pactado en convenio colectivo o contrato individual. En ningún caso la duración será inferior a treinta días naturales.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a38"
+  },
+  {
+    "id": 39,
+    "question": "¿Qué límites tiene la movilidad funcional del trabajador?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a39",
+    "reference_passage": "1. La movilidad funcional en la empresa se efectuará de acuerdo a las titulaciones académicas o profesionales precisas para ejercer la prestación laboral y con respeto a la dignidad del trabajador.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a39"
+  },
+  {
+    "id": 40,
+    "question": "¿Qué derechos tiene el trabajador ante un traslado que exige cambiar de residencia?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a40",
+    "reference_passage": "1. El traslado de trabajadores que no hayan sido contratados específicamente para prestar sus servicios en empresas con centros de trabajo móviles o itinerantes a un centro de trabajo distinto de la misma empresa que exija cambios de residencia requerirá la existencia de razones económicas, técnicas, organizativas o de producción que lo justifiquen. Se consideraran tales las que estén relacionadas con la competitividad, productividad u organización técnica o del trabajo en la empresa, así como las contrataciones referidas a la actividad empresarial.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a40"
+  },
+  {
+    "id": 41,
+    "question": "¿Qué cambios se consideran modificaciones sustanciales de condiciones de trabajo?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a41",
+    "reference_passage": "1. La dirección de la empresa podrá acordar modificaciones sustanciales de las condiciones de trabajo cuando existan probadas razones económicas, técnicas, organizativas o de producción. Se considerarán tales las que estén relacionadas con la competitividad, productividad u organización técnica o del trabajo en la empresa.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a41"
+  },
+  {
+    "id": 42,
+    "question": "¿Qué responsabilidad tiene la empresa principal al subcontratar obras y servicios?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a42",
+    "reference_passage": "1. Las empresas que contraten o subcontraten con otras la realización de obras o servicios correspondientes a la propia actividad de aquellas deberán comprobar que dichas contratistas están al corriente en el pago de las cuotas de la Seguridad Social. Al efecto, recabarán por escrito, con identificación de la empresa afectada, certificación negativa por descubiertos en la Tesorería General de la Seguridad Social, que deberá librar inexcusablemente dicha certificación en el término de treinta días improrrogables y en los términos que reglamentariamente se establezcan. Transcurrido este plazo, quedará exonerada de responsabilidad la empresa solicitante.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a42"
+  },
+  {
+    "id": 43,
+    "question": "¿Qué consecuencias tiene la cesión ilegal de trabajadores?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a43",
+    "reference_passage": "1. La contratación de trabajadores para cederlos temporalmente a otra empresa solo podrá efectuarse a través de empresas de trabajo temporal debidamente autorizadas en los términos que legalmente se establezcan.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a43"
+  },
+  {
+    "id": 44,
+    "question": "¿Qué ocurre con los contratos cuando cambia el titular de la empresa?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a44",
+    "reference_passage": "1. El cambio de titularidad de una empresa, de un centro de trabajo o de una unidad productiva autónoma no extinguirá por sí mismo la relación laboral, quedando el nuevo empresario subrogado en los derechos y obligaciones laborales y de Seguridad Social del anterior, incluyendo los compromisos de pensiones, en los términos previstos en su normativa específica, y, en general, cuantas obligaciones en materia de protección social complementaria hubiere adquirido el cedente.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a44"
+  },
+  {
+    "id": 45,
+    "question": "¿Cuáles son las causas de suspensión del contrato de trabajo?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a45",
+    "reference_passage": "1. El contrato de trabajo podrá suspenderse por las siguientes causas:",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a45"
+  },
+  {
+    "id": 46,
+    "question": "¿Qué requisitos tiene la excedencia voluntaria?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a46",
+    "reference_passage": "1. La excedencia podrá ser voluntaria o forzosa. La forzosa, que dará derecho a la conservación del puesto y al cómputo de la antigüedad de su vigencia, se concederá por la designación o elección para un cargo público que imposibilite la asistencia al trabajo. El reingreso deberá ser solicitado dentro del mes siguiente al cese en el cargo público.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a46"
+  },
+  {
+    "id": 47,
+    "question": "¿Qué circunstancias permiten suspender temporalmente contratos por causas económicas?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a47",
+    "reference_passage": "1. La empresa podrá reducir temporalmente la jornada de trabajo de las personas trabajadoras o suspender temporalmente los contratos de trabajo, por causas económicas, técnicas, organizativas o de producción de carácter temporal, con arreglo a lo previsto en este artículo y al procedimiento que se determine reglamentariamente.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a47"
+  },
+  {
+    "id": 48,
+    "question": "¿Qué reglas se aplican a la suspensión del contrato con reserva de puesto?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a48",
+    "reference_passage": "1. Al cesar las causas legales de suspensión, el trabajador tendrá derecho a la reincorporación al puesto de trabajo reservado, en todos los supuestos a que se refiere el artículo 45.1 excepto en los señalados en las letras a) y b), en que se estará a lo pactado.",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a48"
+  },
+  {
+    "id": 49,
+    "question": "¿Cuáles son las causas de extinción del contrato de trabajo?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a49",
+    "reference_passage": "1. El contrato de trabajo se extinguirá:",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a49"
+  },
+  {
+    "id": 50,
+    "question": "¿Cuándo puede el trabajador solicitar la extinción indemnizada del contrato?",
+    "expected_law": "BOE-A-2015-11430",
+    "expected_article": "a50",
+    "reference_passage": "1. Serán causas justas para que el trabajador pueda solicitar la extinción del contrato:",
+    "reference_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a50"
+  }
+]
