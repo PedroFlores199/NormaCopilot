@@ -1,0 +1,21 @@
+{
+  "tests": 16,
+  "postgresql_real": true,
+  "native_ollama_metal": {
+    "question": "vacaciones",
+    "article": "a38",
+    "latency_ms": 4560
+  },
+  "docker_api_and_ollama_cpu": {
+    "result": "passed",
+    "provider": "http://localhost:5107",
+    "literal_citations": 1,
+    "correct_article": true,
+    "streamed_graph": true,
+    "pii_rejection": true,
+    "deadline": true,
+    "latency_ms": 120005.1
+  },
+  "timing_scope": "Individual observed queries, not a comparative benchmark",
+  "api_provider_tested": false
+}
